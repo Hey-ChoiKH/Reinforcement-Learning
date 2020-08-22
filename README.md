@@ -1,3 +1,5 @@
 # Reinforcement-Learning
 
-Working on the assignments of CS234 (Stanford Univ.)
+Working on...
+-assignments of CS234 (Stanford Univ.)
+-MuJoCo
